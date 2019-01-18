@@ -5,31 +5,31 @@ public class List {
     public static void main(String args[]){
         // create array list
 
-        ArrayList list1 = new ArrayList();
+        ArrayList students = new ArrayList();
 
-        System.out.println("List1 has " + list1.size() + " elements in it." );
+        System.out.println("There are " + students.size() + " students in this class." );
 
-        //add elements to ArrayList list1
-        list1.add("Item1");
-        list1.add("Item2");
-        list1.add("Item3");
-        list1.add("Item4");
-        list1.add("Item5");
-        list1.add("Item6");
-        System.out.println("\nList1 has " + list1.size() + " elements in it." );
-        System.out.println(list1);
+        //add elements to ArrayList students
+        students.add("Bill");
+        students.add("Sally");
+        students.add("Daisy");
+        students.add("Mike");
+        students.add("Peter");
+        students.add("Tom");
+        System.out.println("\nThere are " + students.size() + " students in the class." );
+        System.out.println(students);
 
         //add element at index position
-        list1.add(2, "New Item");
-        System.out.println("\n\"New Item\" has been added at the third position.");
-        System.out.println(list1);
+        students.add(2, "Sarah");
+        System.out.println("\n\"Sarah\" has been added to the class at the third position.");
+        System.out.println(students);
 
-        list1.remove(4);
-        System.out.println("\nRemoved the fifth item.");
-        System.out.println(list1);
+        students.remove(4);
+        System.out.println("\nRemoved the student from the fifth position (index 4).");
+        System.out.println(students);
 
-        list1.remove("Item5");
-        System.out.println("\nRemoved item named \"Item5\".");
-        System.out.println(list1);
+        students.remove("Peter");
+        System.out.println("\nRemoved student named \"Peter\" from class list.");
+        System.out.println(students);
     }
 }
