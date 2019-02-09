@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class List {
+public class ListExample {
 
     public static void main(String args[]){
         // create array list
