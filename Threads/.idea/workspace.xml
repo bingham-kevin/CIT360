@@ -2,24 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2974d52-4d9c-457a-93a5-ffaa0e84cb7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ServletExample/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletExample/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletExample/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletExample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletExample/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletExample/ServletExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlets/.idea/artifacts/Servlets_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlets/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlets/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlets/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlets/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlets/Servlets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlets/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServletExample/src/ServletExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ServletExample/src/ServletExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Threads/META-INF/Threads.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/ServletExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/WebContent/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/build/classes/ServletExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServletExample/src/ServletExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Servlets/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -131,15 +133,15 @@
       <option name="presentableId" value="Default" />
       <updated>1549758711697</updated>
       <workItem from="1549758714273" duration="44000" />
-      <workItem from="1549758997705" duration="579000" />
+      <workItem from="1549758997705" duration="949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="623000" />
+    <option name="totallyTimeSpent" value="993000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="138" y="175" width="1400" height="1000" extended-state="0" />
+    <frame x="133" y="234" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
