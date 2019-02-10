@@ -9,28 +9,28 @@ import java.util.ArrayList;
 
 @WebServlet(name= "testing", urlPatterns= {"/test"})
 public class ServletExample extends HttpServlet{
-	String email;
-	ArrayList<String> emailList = new ArrayList<String>();
-	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		email = request.getParameter("email");
-		addToList();
-		response.sendRedirect("http://localhost:8080/ServletExample/");
-	}
+    String email;
+    ArrayList<String> emailList = new ArrayList<String>();
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        email = request.getParameter("email");
+        addToList();
+        response.sendRedirect("http://localhost:8080/Servlets_war_exploded/");
+    }
 
-	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
         out.println("<html><head></head><body>");
         out.println("<h1>Email List</h1>");
         for(String i :emailList){
-        	out.println(i);
-        	out.println("<br>");
-        	}
+            out.println(i);
+            out.println("<br>");
+        }
         out.println("</body></html>");
-	}
-	
-	protected void addToList() {
-			emailList.add(email);
-		}
+    }
+
+    protected void addToList() {
+        emailList.add(email);
+    }
 }
