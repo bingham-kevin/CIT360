@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="634e9775-e014-410d-b274-8a3bb751626e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Collections/.idea/dictionaries/kbingham.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Concurrency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/Threads.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/src/Concurrency/CallableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/src/Concurrency/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/src/Concurrency/MathThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/src/Concurrency/RunnableExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collections/src/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collections/src/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collections/src/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collections/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Concurrency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="68" selection-end-column="51" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#447#448#0" expanded="true" />
@@ -67,9 +49,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="2560" />
-    <option name="height" value="1417" />
+    <option name="x" value="795" />
+    <option name="y" value="139" />
+    <option name="width" value="1765" />
+    <option name="height" value="1301" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -80,7 +63,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,10 +79,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548133443976" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549752347609" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,10 +147,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2560" height="1417" extended-state="0" />
+    <frame x="795" y="139" width="1765" height="1301" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.081807084" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.081253625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -176,7 +159,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32919767" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -205,8 +188,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Concurrency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="68" selection-end-column="51" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#447#448#0" expanded="true" />
