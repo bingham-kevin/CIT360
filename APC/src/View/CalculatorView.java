@@ -1,8 +1,12 @@
+package View;
+
+import Controller.CalculatorControlPattern;
+
 import java.util.Scanner;
 
-public class CalculatorApplication {
+public class CalculatorView {
 
-    public static void main(String[] args) {
+    public void calcView(){
         CalculatorControlPattern apcCalc = new CalculatorControlPattern();
         Double num1;
         Double num2;
@@ -11,7 +15,7 @@ public class CalculatorApplication {
         Scanner in = new Scanner(System.in);
 
         System.out.println("APC Calculator");
-        System.out.println("Enter a numer: ");
+        System.out.println("Enter a number: ");
         num1 = Double.parseDouble(in.nextLine());
         System.out.println("Choose an operand(+, -, *, /):");
         operand = in.nextLine();
@@ -22,5 +26,4 @@ public class CalculatorApplication {
         Double answer = apcCalc.calculate(operand, num1, num2);
         System.out.println(answer);
     }
-
 }

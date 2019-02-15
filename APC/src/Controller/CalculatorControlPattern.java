@@ -1,3 +1,10 @@
+package Controller;
+
+import Model.Add;
+import Model.Divide;
+import Model.Multiply;
+import Model.Subtract;
+
 import java.util.HashMap;
 
 public class CalculatorControlPattern {

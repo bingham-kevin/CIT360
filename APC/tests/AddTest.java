@@ -1,3 +1,4 @@
+import Model.Add;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
@@ -15,7 +16,7 @@ public class AddTest {
         Double sum = add.calc(num1, num2);
 
         assertEquals(expected, sum);
-    }ds
+    }
 
     @Test
     public void calc1() {
