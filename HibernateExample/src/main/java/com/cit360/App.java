@@ -12,9 +12,8 @@ public class App
         if (answer == 1) {
             Save populate = new Save();
             populate.save();
-        }else{
-            System.out.println("ok");
         }
+
         System.out.println("Get data? Yes(1) or No(2)");
         int getdata = in.nextInt();
         if (getdata == 1){
@@ -23,6 +22,8 @@ public class App
             Retrieve getVal = new Retrieve();
             Student values = getVal.retrieve(record);
             System.out.println(values);
+        }else{
+            System.out.println("Ok, bye!");
         }
     }
 }
