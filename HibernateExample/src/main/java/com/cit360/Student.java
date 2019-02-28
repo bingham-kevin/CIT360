@@ -2,14 +2,14 @@ package com.cit360;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import static javax.persistence.GenerationType.IDENTITY;
 
 @Entity
 public class Student{
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @GeneratedValue(strategy = IDENTITY)
     private int id;
     private String sname;
     private String sgrade;
@@ -18,7 +18,7 @@ public class Student{
         return id;
     }
 
-    public void setId(int id) {
+    public void setId() {
         this.id = id;
     }
 
