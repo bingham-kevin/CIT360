@@ -1,22 +1,25 @@
 package com.cit360;
 
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Entity
 public class Student{
 
     @Id
-    private int sid;
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private int id;
     private String sname;
     private String sgrade;
 
-    public int getSid() {
-        return sid;
+    public int getId() {
+        return id;
     }
 
-    public void setSid(int sid) {
-        this.sid = sid;
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getSname() {
@@ -33,5 +36,14 @@ public class Student{
 
     public void setSgrade(String sgrade) {
         this.sgrade = sgrade;
+    }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "id=" + id +
+                ", sname='" + sname + '\'' +
+                ", sgrade='" + sgrade + '\'' +
+                '}';
     }
 }

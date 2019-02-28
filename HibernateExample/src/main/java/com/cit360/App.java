@@ -1,50 +1,28 @@
 package com.cit360;
 
-import org.hibernate.Session;
-import org.hibernate.SessionFactory;
-import org.hibernate.Transaction;
-import org.hibernate.cfg.Configuration;
-
-import java.util.ArrayList;
+import java.util.Scanner;
 
 public class App
 {
-    public static void main( String[] args ){
+    public static void main( String[] args ) {
 
-        Student student1 = new Student();
-
-        student1.setSid(1);
-        student1.setSname("Kevin");
-        student1.setSgrade("A");
-
-
-        Student student2 = new Student();
-
-        student2.setSid(2);
-        student2.setSname("Lauren");
-        student2.setSgrade("A+");
-
-        Student student3 = new Student();
-
-        student3.setSid(3);
-        student3.setSname("Daisy");
-        student3.setSgrade("B+");
-
-        ArrayList<Student> students = new ArrayList<>();
-        students.add(student1);
-        students.add(student2);
-        students.add(student3);
-
-        Configuration config = new Configuration().configure().addAnnotatedClass(Student.class);
-        SessionFactory factory = config.buildSessionFactory();
-        Session session = factory.openSession();
-        Transaction transmit = session.beginTransaction();
-
-        for (Student student : students) {
-
-            session.save(student);
+        Scanner in = new Scanner(System.in);
+        System.out.println("Populate database? Yes(1) or No(2)");
+        int answer = in.nextInt();
+        if (answer == 1) {
+            Save populate = new Save();
+            populate.save();
+        }else{
+            System.out.println("ok");
         }
-
-        transmit.commit();
+        System.out.println("Get data? Yes(1) or No(2)");
+        int getdata = in.nextInt();
+        if (getdata == 1){
+            System.out.println("Which record do you want?");
+            int record = in.nextInt();
+            Retrieve getVal = new Retrieve();
+            Student values = getVal.retrieve(record);
+            System.out.println(values);
+        }
     }
 }
