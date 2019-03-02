@@ -8,4 +8,3 @@ public class Calculator{
             CalculatorController theController = new CalculatorController(theView,theModel);
         }
     }
-

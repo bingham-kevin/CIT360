@@ -14,22 +14,27 @@ public class CalculatorModel {
 
 
     public void add(double firstN, double secondN){
+
         result = firstN + secondN;
     }
 
     public void substract(double firstN, double secondN){
         result = firstN - secondN;
+
     }
 
     public void multiply(double firstN, double secondN){
+
         result = firstN * secondN;
     }
 
     public void divide(double firstN, double secondN){
+
         result = firstN / secondN;
     }
 
     public double getResult(){
+
         return result;
     }
 

@@ -3,13 +3,13 @@ package MVC;
 import java.util.*;
 
 public class CalculatorView {
-    Scanner in = new Scanner( System.in );
+    Scanner in = new Scanner(System.in);
     Double firstN;
     String oper;
     Double secondN;
 
 
-    public void CalculatorView() {
+    public CalculatorView() {
         System.out.print("First number: ");
         firstN = in.nextDouble();
         System.out.print("Operation (+, -, *, /): ");
