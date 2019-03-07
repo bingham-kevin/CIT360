@@ -1,5 +1,8 @@
 package Threads;
 
+import Threads.ThreadExamples.CountByThree;
+import Threads.ThreadExamples.CountByTwo;
+
 public class Main {
     public static void main(String[] args) {
 
