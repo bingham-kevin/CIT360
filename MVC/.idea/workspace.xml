@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22bc38de-6fc0-4812-bddd-9afb4bd601fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MVC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MVC/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVC/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MVC/CalculatorModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVC/CalculatorModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MVC/CalculatorView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MVC/CalculatorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPUrlConnection/.idea/libraries/com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPUrlConnection/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPUrlConnection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPUrlConnection/src/HttpUrlExample/HTTPGetRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPUrlConnection/src/HttpUrlExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPUrlConnection/src/HttpUrlExample/StreamReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPUrlConnection/src/HttpUrlExample/URLPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPUrlConnection/src/HttpUrlExample/UrlMake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPUrlConnection/src/HttpUrlExample/getJSON.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concurrency/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Concurrency/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JSON/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,17 +45,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/MVC/Controller.java" />
-        <option value="$PROJECT_DIR$/src/MVC/CalculatorController.java" />
-        <option value="$PROJECT_DIR$/src/MVC/Calculator.java" />
         <option value="$PROJECT_DIR$/src/MVC/CalculatorView.java" />
         <option value="$PROJECT_DIR$/src/MVC/CalculatorModel.java" />
         <option value="$PROJECT_DIR$/JUnit/MVC/CalculatorModelTest.java" />
+        <option value="$PROJECT_DIR$/src/MVC/CalculatorController.java" />
+        <option value="$PROJECT_DIR$/src/MVC/Calculator.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="501" />
-    <option name="y" value="138" />
+    <option name="x" value="669" />
+    <option name="y" value="65" />
     <option name="width" value="1973" />
     <option name="height" value="1261" />
   </component>
@@ -59,7 +67,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -83,6 +90,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -92,9 +100,10 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551564954361" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552005854738" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -155,6 +164,7 @@
       <workItem from="1551558464481" duration="3728000" />
       <workItem from="1551564519686" duration="441000" />
       <workItem from="1551564992510" duration="281000" />
+      <workItem from="1552005583711" duration="272000" />
     </task>
     <task id="LOCAL-00001" summary="MVC">
       <created>1551560800661</created>
@@ -167,12 +177,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4739000" />
+    <option name="totallyTimeSpent" value="5011000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="501" y="138" width="1973" height="1261" extended-state="0" />
+    <frame x="669" y="65" width="1973" height="1261" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24236147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2449508" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -215,28 +226,6 @@
     <entry file="file://$PROJECT_DIR$/MVC.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MVC/CalculatorView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MVC/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JUnit/MVC/CalculatorModelTest.java" />
     <entry file="file://$PROJECT_DIR$/src/MVC/CalculatorModel.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -245,10 +234,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MVC/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="92" lean-forward="true" selection-start-line="7" selection-start-column="92" selection-end-line="7" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MVC/CalculatorController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MVC/CalculatorView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="50" lean-forward="true" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
         </state>
       </provider>
     </entry>
