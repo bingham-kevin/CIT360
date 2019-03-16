@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="088b2b06-9ae0-4b5d-a616-7f15662fe206" name="Default Changelist" comment="" />
+    <list default="true" id="f7006c96-4f05-424c-a0a2-8e3047c246c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/HttpUrlExample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HttpUrlExample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JSON/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,55 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JSONexample/CreateJSON.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JSONexample/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JSONexample/ReadJSON.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/semester.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JSONexample/View.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="9" selection-start-line="9" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,16 +28,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JSONexample/CreateJSON.java" />
-        <option value="$PROJECT_DIR$/src/JSONexample/ReadJSON.java" />
-        <option value="$PROJECT_DIR$/src/JSONexample/View.java" />
-        <option value="$PROJECT_DIR$/src/JSONexample/Main.java" />
+        <option value="$PROJECT_DIR$/src/HttpUrlExample/ReadURL.java" />
+        <option value="$PROJECT_DIR$/src/HttpUrlExample/HTTPRequest.java" />
+        <option value="$PROJECT_DIR$/src/HttpUrlExample/URLGet.java" />
+        <option value="$PROJECT_DIR$/src/HttpUrlExample/urlMake.java" />
+        <option value="$PROJECT_DIR$/src/HttpUrlExample/UrlMake.java" />
+        <option value="$PROJECT_DIR$/src/HttpUrlExample/StreamReader.java" />
+        <option value="$PROJECT_DIR$/src/HttpUrlExample/HTTPGetRequest.java" />
+        <option value="$PROJECT_DIR$/src/HttpUrlExample/URLPost.java" />
+        <option value="$PROJECT_DIR$/src/HttpUrlExample/getJSON.java" />
+        <option value="$PROJECT_DIR$/src/HttpUrlExample/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="970" />
-    <option name="y" value="241" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="14" />
+    <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="977" />
   </component>
@@ -94,48 +55,50 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="JSON" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSON" type="462c0819:PsiDirectoryNode" />
+              <item name="HTTPUrlConnection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTTPUrlConnection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JSON" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSON" type="462c0819:PsiDirectoryNode" />
+              <item name="HTTPUrlConnection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTTPUrlConnection" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JSON" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSON" type="462c0819:PsiDirectoryNode" />
+              <item name="HTTPUrlConnection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTTPUrlConnection" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JSONexample" type="462c0819:PsiDirectoryNode" />
+              <item name="HttpUrlExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTTPUrlConnection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551813154934" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552018603688" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,11 +114,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JSONexample.Main" />
-      <module name="JSON" />
+      <option name="MAIN_CLASS_NAME" value="HttpUrlExample.Main" />
+      <module name="HTTPUrlConnection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JSONexample.*" />
+          <option name="PATTERN" value="HttpUrlExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,40 +137,32 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="088b2b06-9ae0-4b5d-a616-7f15662fe206" name="Default Changelist" comment="" />
-      <created>1551568787160</created>
+      <changelist id="f7006c96-4f05-424c-a0a2-8e3047c246c8" name="Default Changelist" comment="" />
+      <created>1551935766172</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551568787160</updated>
-      <workItem from="1551568788525" duration="2442000" />
-      <workItem from="1551584822616" duration="16069000" />
-      <workItem from="1551984780745" duration="1301000" />
+      <updated>1551935766172</updated>
+      <workItem from="1551935767538" duration="18837000" />
+      <workItem from="1552018196527" duration="409000" />
+      <workItem from="1552250946236" duration="288000" />
     </task>
-    <task id="LOCAL-00001" summary="JSON Read and Write">
-      <created>1551812957874</created>
+    <task id="LOCAL-00001" summary="HttpUrlConnection">
+      <created>1552016824155</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1551812957874</updated>
+      <updated>1552016824155</updated>
     </task>
-    <task id="LOCAL-00002" summary="JSON Read and Write">
-      <created>1551813152745</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1551813152746</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19812000" />
+    <option name="totallyTimeSpent" value="19534000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="970" y="241" width="1680" height="977" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="977" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -215,8 +170,8 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3299435" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32881355" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299435" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -224,7 +179,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32881355" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3299435" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -243,41 +198,96 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="JSON Read and Write" />
-    <option name="LAST_COMMIT_MESSAGE" value="JSON Read and Write" />
+    <MESSAGE value="HttpUrlConnection" />
+    <option name="LAST_COMMIT_MESSAGE" value="HttpUrlConnection" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JSONexample/CreateJSON.java">
+    <entry file="file://$PROJECT_DIR$/src/HttpUrlExample/URLPost.java" />
+    <entry file="file://$PROJECT_DIR$/src/HttpUrlExample/getJSON.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+        <state relative-caret-position="738">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/semester.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/HttpUrlExample/StreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JSONexample/View.java">
+    <entry file="file://$PROJECT_DIR$/src/HttpUrlExample/UrlMake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HttpUrlExample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="9" selection-start-line="9" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+          <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JSONexample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+    <entry file="uml://JAVA/HttpUrlExample.Main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>HttpUrlExample.Main</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">HttpUrlExample.Main</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-331.0" y="-162.5" />
+          <SelectedNodes>
+            <node>HttpUrlExample.Main</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JSONexample/ReadJSON.java">
+    <entry file="uml://JAVA/HttpUrlExample.HTTPGetRequest">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>HttpUrlExample.HTTPGetRequest</OriginalElement>
+          <nodes>
+            <node x="" y="">HttpUrlExample.HTTPGetRequest</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="77.0" y="14.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HttpUrlExample/HTTPGetRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        <state relative-caret-position="465">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -336,7 +346,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JSON</last-edited>
+          <last-edited>HTTPUrlConnection</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -361,7 +371,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>org.apache.clerezza.ext:org.json.simple:0.4</last-edited>
+          <last-edited>com.googlecode.json-simple:json-simple:1.1.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
